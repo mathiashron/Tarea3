@@ -28,7 +28,7 @@ namespace Tarea3
         static int cantidadjovenes = 0;
         static int cantidadadultos = 0;
         static int option = 0;
-        static int minimo = 0;
+        static int minimo = 3;
         static int maximo = 10;
         static int i = 0;
         //static string m = "m";
